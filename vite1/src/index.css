@@ -1,0 +1,18 @@
+img
+{
+  height: 300px;
+  width: 350px;
+
+}
+.flws
+{
+  display: flex;
+  gap:10px;
+
+  
+}
+.flw
+{
+  box-shadow: 5px 5px 5px black;
+  padding: 20px;
+}

@@ -1,0 +1,18 @@
+img
+{
+    height: 280px;
+    width: 300px;
+}
+.cbs
+{
+  display: flex;
+  gap:10px;
+
+  
+}
+.cb
+{
+  box-shadow: 5px 5px 5px black;
+  padding: 20px;
+}
+    
